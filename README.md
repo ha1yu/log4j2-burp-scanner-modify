@@ -2,7 +2,7 @@
 
 修改版log4j2-burp-scanner
 
-修改自原版：https://github.com/f0ng/log4j2burpscanner
+原版地址：https://github.com/f0ng/log4j2burpscanner
 
 修改源码，使其可以和自己搭建的DNSlog平台配合使用：
 
